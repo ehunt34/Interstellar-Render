@@ -1,7 +1,7 @@
 {
-  "name": "mathematics",
+  "name": "among us 2",
   "version": "5.0.0",
-  "description": "https://discord.gg/interstellar",
+  "description": "among us",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
